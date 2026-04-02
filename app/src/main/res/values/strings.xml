@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">046-Assignment-Quiz_App</string>
+    <string name="app_logo">App Logo</string>
+    <string name="ict_department_quiz_app">ICT Department Quiz App</string>
+    <string name="faculty_of_technology_nuniversity_quiz_application">Faculty of Technology\nUniversity Quiz Application</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="welcome">welcome</string>
+    <string name="enter_details">enter_details</string>
+    <string name="reg_number">reg_number</string>
+    <string name="name">name</string>
+    <string name="starts">starts</string>
+    <string name="quiz_time">quiz_time</string>
+    <string name="button">Button</string>
+    <string name="get_started">Get Started</string>
+    <string name="quiz_app">QUIZ APP</string>
+</resources>
